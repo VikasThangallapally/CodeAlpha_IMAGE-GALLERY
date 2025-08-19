@@ -1,0 +1,2 @@
+# CodeAlpha_IMAGE-GALLERY
+TASK 1
